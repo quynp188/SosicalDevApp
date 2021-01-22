@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047494539898",
+    "project_id": "socialdevappcli",
+    "storage_bucket": "socialdevappcli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047494539898:android:769dfeb73f99f402b519c3",
+        "android_client_info": {
+          "package_name": "com.socialdevappcli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047494539898-4j3erv6iav2afo1cf24v50tnaim78lul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialdevappcli",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1047494539898-2rjicahqlor1thkkpqcbo09htpj2hkmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxbhuXTVEs4a2ozwuOseF66Xu0OHRGpGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047494539898-2rjicahqlor1thkkpqcbo09htpj2hkmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
